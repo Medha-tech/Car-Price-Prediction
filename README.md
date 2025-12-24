@@ -10,6 +10,7 @@ car-price-prediction/
 │── car_prediction_data.csv
 │── requirements.txt
 │── README.md
+│── .gitignore
 ```
 
 ## 🧠 Model Overview
@@ -41,3 +42,4 @@ The dataset contains:
 - Multiple models comparison
 - Save & deploy model using Streamlit / Flask
 ```
+
